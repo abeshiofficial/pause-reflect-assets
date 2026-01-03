@@ -1,5 +1,5 @@
 {
-  "setupVideoUrl": "https://raw.githubusercontent.com/abeshiofficial/pause-reflect-assets/main/remote-config/onboarding_movie_v2.mp4",
+  "setupVideoUrl": "https://cdn.jsdelivr.net/gh/abeshiofficial/pause-reflect-assets@main/remote-config/onboarding_movie_v2.mp4",
   "shortcutGuideScreenshots": {
     "step1": "https://raw.githubusercontent.com/abeshiofficial/pause-reflect/main/remote-config/screenshots/step1.png",
     "step2": "https://raw.githubusercontent.com/abeshiofficial/pause-reflect/main/remote-config/screenshots/step2.png",
